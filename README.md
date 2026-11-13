@@ -48,7 +48,7 @@ Stock shadcn components don't pick up the theme (it has no shadcn colours), so u
 guidance into local Codex with [skills.sh](https://skills.sh):
 
 ```sh
-npx skills add City-Syntax/urbanflow-components --skill urbanflow-design -a codex -g
+npx skills add urbanflowhq/urbanflow-components --skill urbanflow-design -a codex -g
 ```
 
 Use the command after the skill is available on `main`. The skill includes its

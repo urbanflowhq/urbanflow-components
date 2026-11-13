@@ -12,7 +12,7 @@ not be learned from or copied.
 - Reference frame: Platform `CyjMpmGxUHezAqjmA5qXwI`, node `5158:47970`.
 - Canonical handoff area: Platform AI page `4939:130753`, finalized AI work on the right. See
   `references/handoff/canonical-ai-example.md` for the verified layout grammar.
-- Code/library reference: `City-Syntax/urbanflow-components`, especially `DESIGN.md`,
+- Code/library reference: `urbanflowhq/urbanflow-components`, especially `DESIGN.md`,
   `packages/theme/theme.css`, `registry/ui/*`, and `packages/icons/raw/*`.
 - Visual behavior reference: AI SDK Elements for message anatomy, sources, citations, loader,
   context usage and composer patterns; re-skin every pattern with Flow tokens.
