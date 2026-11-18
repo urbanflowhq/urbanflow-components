@@ -8,7 +8,7 @@ Urbanflow is moving from one monorepo to separate products, each owned by one en
 |---|---|---|---|
 | Core platform (projects, model canvas, analysis, compare, onboarding) | https://app.urbanflow.co/ | `City-Syntax/urbanflow-monorepo` | Legacy tokens `libs/urbanflow-components/src/tailwind.css` |
 | Flux — retrofit onboarding, calibration → recommendations | https://flux.urbanflow.co | `City-Syntax/flux` (https://github.com/City-Syntax/flux) | First product split out; Pei Ning owns this experience. In the AppShell its modes (Model, HVAC, Weather, Runs, Results, Files) sit in the canvas UtilitiesToolbar, not the top bar. Carries the Urbanflow mark only as PNG |
-| Design system package | https://components.urbanflow.co | `City-Syntax/urbanflow-components` (https://github.com/City-Syntax/urbanflow-components) | `@urbanflow/theme`, `@urbanflow/icons`, shadcn component registry (`registry/ui/`, incl. the Shell components) — every product imports it. Brand SVGs at `/brand/urbanflow-mark(-white).svg` |
+| Design system package | https://components.urbanflow.co | `urbanflowhq/urbanflow-components` (https://github.com/urbanflowhq/urbanflow-components) | `@urbanflow/theme`, `@urbanflow/icons`, shadcn component registry (`registry/ui/`, incl. the Shell components) — every product imports it. Brand SVGs at `/brand/urbanflow-mark(-white).svg` |
 
 When a product or repo isn't listed, ask Pei Ning for it once and suggest adding it here.
 

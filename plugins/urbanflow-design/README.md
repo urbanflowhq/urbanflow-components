@@ -12,7 +12,7 @@ application, publish an npm package, or automatically connect anyone's accounts.
 After this change is merged to `main`, install the skill for local Codex:
 
 ```sh
-npx skills add City-Syntax/urbanflow-components --skill urbanflow-design -a codex -g
+npx skills add urbanflowhq/urbanflow-components --skill urbanflow-design -a codex -g
 ```
 
 The `-g` option makes the skill available across projects, including Flux and the
@@ -41,7 +41,7 @@ access to the linked Figma files or any private source repositories.
 With a current Codex CLI, add the repository checkout as a marketplace:
 
 ```sh
-codex plugin marketplace add https://github.com/City-Syntax/urbanflow-components
+codex plugin marketplace add https://github.com/urbanflowhq/urbanflow-components
 codex plugin add urbanflow-design@urbanflow-plugins
 codex plugin list --json
 ```
@@ -62,7 +62,7 @@ Workspace installation and installation on local machines are separate.
 A workspace admin completes this after the plugin is merged:
 
 1. Open **Admin > Plugins > Add > Import marketplace**.
-2. Enter `https://github.com/City-Syntax/urbanflow-components`. Leave Path empty.
+2. Enter `https://github.com/urbanflowhq/urbanflow-components`. Leave Path empty.
 3. Select the release branch, normally `main`, and authorize repository access.
 4. Review import results. Make the plugin available to all intended members, or
    choose **Installed for workspace** to install it by default.

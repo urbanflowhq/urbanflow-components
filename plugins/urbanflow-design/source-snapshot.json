@@ -83,10 +83,10 @@
     "references/audit/heuristics.md": "7796910aa6c16d924db82911f5a2fab7e1e7e05e2a4351a5d606d775d1b8493e",
     "references/audit/web-standards.md": "c4d51de6b4e4d90af13e983c2727ae7c3e463cd19e9a95dbec993e88d1829bef",
     "references/audit.md": "038f03802594f005356773020f6492756cb92591ab3f7a1be37a29c131de7b38",
-    "references/build/ai-patterns.md": "a7466b55069336585f74fee519f5fbc797cabf60e5a7fe1f5100142a18dfd110",
+    "references/build/ai-patterns.md": "32c651862ac2cd06d890b25f87944112f326a841ebe2db7a57ed8d1f55a5eaf1",
     "references/build/figma-build.md": "2187e6cb4fc484927d9814082e2aa51bbf5fffa39f69e82b3c0b5fe577284933",
     "references/build/html-prototype.md": "f6974e13cec4fcaeee755aa3baaea8984bbbb367fb6589e4de882d5efb00d129",
-    "references/build/live-sources.md": "63622951c09d75bb65ed54f16e13efd6cbd42e2fa8be41cb847ad5e8889a41ad",
+    "references/build/live-sources.md": "d14f24f4879b59e10a4038289a95ebe327cb6b0b4a6f529d06cece4558afcf8c",
     "references/build/modes/flow.md": "f55df3fab39451363cf0f86184e0b2eb8579232c007f0cfcb39a8a1892223037",
     "references/build/modes/interaction.md": "4b796fc5e1d62c6d467a1239106aa93f0ef16722ef14b2a0b87e67f5542f6ff0",
     "references/build/modes/mockup.md": "1881a7e61963c2e148d0a5a4ca281d3014cc994317fa0017888a9dae7bc42676",
@@ -106,9 +106,9 @@
     "references/principles/patterns.md": "b5ab54e49683bae825dcf2d8b8f7d1907bece904292878feda835e6d86c278c4",
     "references/principles/reading-the-ds.md": "24d3b9377991d8d920785779dc0289305d7f83e3d0a11415e3bb3696215f9312",
     "references/principles/tokens.md": "1247732bd8127a255b630b7b6b9b79ec5e30f68c776acce97f29190fa1b2a0c3",
-    "references/principles.md": "3b396a71af82b3f6bcd71cc04c87b638ccd3c90bb1b96f5593cfc5fd6871fec6",
+    "references/principles.md": "12881e36aae430734cd08abe091f79e671a42aeea38dbf7e21e8f38833a445ff",
     "references/qa/agent-issue-template.md": "f6b246ea02ebc22920c5715c38972ccee7b9612ab631a4308c7bf3a4ab8cb901",
     "references/qa.md": "7f6e0b9937e656401ad2c7667fa8b2ed79afd822bcaeb53ab645b366d20ff518"
   },
-  "updatedAt": "2026-11-05"
+  "updatedAt": "2026-11-13"
 }
