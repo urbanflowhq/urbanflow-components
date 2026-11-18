@@ -1,5 +1,11 @@
 # @urbanflow/theme
 
+## 1.0.1
+
+### Patch Changes
+
+- 62a00f6: The source repo moved to `urbanflowhq/urbanflow-components`. Package metadata now links there. Nothing changes for apps that install these packages.
+
 ## 1.0.0
 
 No changes in this release.
